@@ -1,0 +1,20 @@
+arithmetic operator
+
++, -, *, /, %, **,
+// floor division
+
+
+relational operator
+>, >=, <, <=, ==, !=
+
+logical operator
+    and, not, or
+
+membership test operator
+    in, not in
+
+lambda operator  (lambda function)
+
+
+ identity operator
+ is, is not

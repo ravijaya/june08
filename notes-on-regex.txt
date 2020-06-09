@@ -1,0 +1,14 @@
+regexp
+~~~~~~
+
+operations
+    a. pattern matching (grep)
+    b. find & replacement (sed)
+    c. split (awk)
+
+
+characteristics
+    i. case sensitive
+    ii. match only once in a line
+    iii. match for sub strings    (sun in sunflower)
+    iv. greedy in nature    
