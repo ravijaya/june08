@@ -11,4 +11,6 @@ def grep_me(pattern, *args):
                 print(f'{filename}:{line}', end='')
 
 
-grep_me('bash$', '/etc/passwd', '/etc/group', 'passwd.txt')
+if __name__ == '__main__':
+    print('#' * 22)
+    grep_me('bash$', '/etc/passwd', '/etc/group', 'passwd.txt')

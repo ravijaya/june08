@@ -1,4 +1,5 @@
 from psperson import Person
+import pdb
 
 
 class Employee(Person):
@@ -14,5 +15,7 @@ class Employee(Person):
 
 
 if __name__ == '__main__':
+    # pdb.set_trace()  # postmortem
+    breakpoint()
     e = Employee('v4004', 'guido', 'rossum')
     e.get_info()

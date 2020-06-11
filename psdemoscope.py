@@ -4,9 +4,9 @@ n = 100  # global
 
 
 def demo():
-    pm = 'pip'
-    # n = 'pip'  # local
-    print(n, pm)
+    # pm = 'pip'
+    n = 'pip'  # local
+    print(n)
 
 
 demo()

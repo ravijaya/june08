@@ -1,0 +1,15 @@
+logger
+
+    i. where to log?
+    ii. what to log?
+
+
+    logger  (custom)
+        ^
+        |
+        handler (where to log? eg: console, file-stream)
+          ^
+          |
+          formatter (what to log)
+
+

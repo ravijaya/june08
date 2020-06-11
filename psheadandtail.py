@@ -14,6 +14,6 @@ class HeadandTail:
 
 if __name__ == '__main__':
     ht = HeadandTail('/etc/passwd')
-    print(ht >> 3)  # the last 3 lines of the file
+    print(ht >> 3)  # the last n lines of the file
     print()
     print(ht << 3)  # the first 3 lines of the file (head)
