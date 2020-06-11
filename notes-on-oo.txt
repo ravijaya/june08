@@ -1,0 +1,19 @@
+oops
+~~~~
+
+why oop?
+
+
+classes
+objects
+    -attributes
+    -methods
+
+constructor
+destructor
+
+features
+    a. inheritance
+    b. polymorphism  (operator overloading)
+    c. encapsulation
+        -abstraction

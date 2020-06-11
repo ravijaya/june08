@@ -1,0 +1,23 @@
+simple inheritance
+    -method overriding
+    -invoke overridden methods
+
+
+
+    Person
+
+    fist_name
+    last_name
+
+    __init__()
+    get_info()
+
+      ^
+      |
+
+    Employee (is-a)
+
+    eid
+
+    __init__()
+    get_info()
