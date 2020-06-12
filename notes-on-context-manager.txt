@@ -10,5 +10,5 @@ why?
 how?
     -code block
     -handle couple of events
-        a. entry  (open's the file to read)
-        b. exit   (closed)
+        a. entry  (open's the file to read)  acquired
+        b. exit   (closed)                   released
